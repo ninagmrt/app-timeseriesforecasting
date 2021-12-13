@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 import pandas as pd
 from fbprophet import Prophet
 from fbprophet.diagnostics import performance_metrics
