@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 from fbprophet import Prophet
 from fbprophet.diagnostics import performance_metrics
 from fbprophet.diagnostics import cross_validation
